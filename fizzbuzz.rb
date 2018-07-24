@@ -10,4 +10,4 @@ def soup(x)
   end
 end
   
-  soup(44)
+  soup(6)
